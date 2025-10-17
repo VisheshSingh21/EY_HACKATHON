@@ -1,0 +1,17 @@
+Your challenge is to build a working MVP of an AI-powered itinerary planner that helps users plan trips efficiently. Participants can leverage AI technologies (like GPT, travel APIs, recommendation systems, etc.) to create a functional tool.
+
+MVP Requirements:
+
+Must allow users to input destinations, dates, and preferences.
+Must generate a working itinerary (day-wise schedule, recommended places to visit, activities, and optional notes).
+Can integrate AI suggestions for optimization or personalization.
+Should be demonstrable as a working prototype by the end of the hackathon.
+Optional Enhancements:
+
+Map-based visualizations.
+Cost estimation.
+Integration with booking platforms.
+Eligibility:
+
+Open to students and professionals interested in AI, travel, and product development.
+Participants can joi

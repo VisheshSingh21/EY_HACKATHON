@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "age": 29,
+    "city": "Delhi",
+    "credit_score": 750,
+    "pre_approved_limit": 300000,
+    "existing_loan": "Car Loan",
+    "salary": 60000
+  },
+  {
+    "id": 2,
+    "name": "Priya Mehta",
+    "age": 35,
+    "city": "Mumbai",
+    "credit_score": 690,
+    "pre_approved_limit": 200000,
+    "existing_loan": "None",
+    "salary": 40000
+  },
+  {
+    "id": 3,
+    "name": "Rohit Verma",
+    "age": 32,
+    "city": "Bangalore",
+    "credit_score": 780,
+    "pre_approved_limit": 500000,
+    "existing_loan": "None",
+    "salary": 100000
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "age": 28,
+    "city": "Hyderabad",
+    "credit_score": 720,
+    "pre_approved_limit": 250000,
+    "existing_loan": "Personal Loan",
+    "salary": 45000
+  },
+  {
+    "id": 5,
+    "name": "Saurabh Jain",
+    "age": 40,
+    "city": "Chennai",
+    "credit_score": 650,
+    "pre_approved_limit": 150000,
+    "existing_loan": "Home Loan",
+    "salary": 35000
+  },
+  {
+    "id": 6,
+    "name": "Riya Kapoor",
+    "age": 30,
+    "city": "Kolkata",
+    "credit_score": 710,
+    "pre_approved_limit": 300000,
+    "existing_loan": "None",
+    "salary": 50000
+  },
+  {
+    "id": 7,
+    "name": "Manish Kumar",
+    "age": 45,
+    "city": "Pune",
+    "credit_score": 785,
+    "pre_approved_limit": 600000,
+    "existing_loan": "None",
+    "salary": 120000
+  },
+  {
+    "id": 8,
+    "name": "Ananya Roy",
+    "age": 27,
+    "city": "Surat",
+    "credit_score": 695,
+    "pre_approved_limit": 180000,
+    "existing_loan": "None",
+    "salary": 32000
+  },
+  {
+    "id": 9,
+    "name": "Karan Patel",
+    "age": 33,
+    "city": "Ahmedabad",
+    "credit_score": 660,
+    "pre_approved_limit": 200000,
+    "existing_loan": "Car Loan",
+    "salary": 38000
+  },
+  {
+    "id": 10,
+    "name": "Sana Khan",
+    "age": 31,
+    "city": "Noida",
+    "credit_score": 740,
+    "pre_approved_limit": 350000,
+    "existing_loan": "None",
+    "salary": 65000
+  }
+]
